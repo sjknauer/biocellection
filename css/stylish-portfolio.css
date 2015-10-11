@@ -24,6 +24,10 @@ body {
     background-color: #8fe8d5
 }
 
+.backing {
+    display: inline;
+}
+
 .backing ul li { 
     display: inline;
 }
