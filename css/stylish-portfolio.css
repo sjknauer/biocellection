@@ -20,6 +20,10 @@ body {
     background-image: url("../img/farmingimg.jpg");
 }
 
+.bg-team {
+    background-color: #8fe8d5
+}
+
 .backing ul li { 
     display: inline;
 }
